@@ -1,0 +1,4 @@
+body{
+    text-align: center;
+    background:linear-gradient(rgb(255, 255, 0) 0%,orange 25%,rgb(109, 235, 84) 50% ,rgb(79, 187, 238) 75%,rgb(50, 8, 238) 100%) ;
+}
